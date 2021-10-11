@@ -12,5 +12,6 @@ Deleted LOGO to prevent infringement
 
 中文:
 这是一个USB HUB2.0,纯硬件,采用sl2.1A方案,做了保护滤波处理,3输入,3选一,(Tpyc-C,USB,micro USB)一个扩展成4个,最大电流为1A
+
 更新日期:2021.10.11
 删除了LOGO,防止侵权
